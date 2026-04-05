@@ -20,7 +20,7 @@ To have an accurate simulation, Ansys requires a set of defined values. With acc
 </div>
 </div>
 
-The bulk of these properties can be achieved with the following tests:
+The core of these properties can be achieved with the following tests:
 
 1. **ASTM D3039**
 <div></div>
@@ -30,24 +30,20 @@ The bulk of these properties can be achieved with the following tests:
 <div></div>
 > Compressive strength
 
-3. **ASTM D3518**
+3. **ASTM D7264**
 <div></div>
-> In-plane shear strength
-
-4. **ASTM D7264**
-<div></div>
-> Flexural strength and stiffness
+> Flexural strength and stiffness and simulation validation
 
 <div></div>
 <br></br>
-Using data from a 10-ply layup from a previous report, the simultion was able to run with promising results. [4]
+The specimens were fabricated from a single sheet of carbon and the individual testing coupons were cut with a waterjet.This minimises the variance between manufacturing and provides a more consistent result. Waterjet is chosen to minimise any heat affected zone since vacuum infusion carbon fiber is not as resistant to heat as prepreg carbon fiber. 
 
 <div className="flex gap-6 justify-center items-center">
 <div>
 ![=x400](/10_ply_deform.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 41: 10-Ply Deformation.</p>
+<p className="italic">Figure 41: Laying of panel for specimen.</p>
 </div>
 </div>
 
@@ -55,7 +51,7 @@ Using data from a 10-ply layup from a previous report, the simultion was able to
 ![=x400](/10_ply_stress.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 42: 10-Ply Stress.</p>
+<p className="italic">Figure 42: DXF for specimens.</p>
 </div>
 </div>
-</div>
+With the testing done, the stock material data in Ansys is modified. The values are then used on a 3 point bending simulation to validate the results. The results however was not accurate and resulted in a xx% error. 
