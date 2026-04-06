@@ -1,7 +1,7 @@
 ---
 title: 2.1. Goals
 description: The north star that we follow
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 1
 tags: [goals]

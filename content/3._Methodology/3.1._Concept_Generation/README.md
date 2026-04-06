@@ -1,9 +1,9 @@
 ---
 title: 3.1. Concept Generation
 description: Which do we go for?
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
-order: 7
+order: 1
 tags: [concept]
 access: [0]
 ---

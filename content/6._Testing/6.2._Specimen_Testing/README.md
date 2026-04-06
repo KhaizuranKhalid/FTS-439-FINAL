@@ -1,7 +1,7 @@
 ---
 title: 6.2. Specimen Testing
 description: Gathering material data
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 2
 tags: [Specimen, ASTM]
@@ -16,10 +16,10 @@ To improve simulation accuracy, material properties were obtained experimentally
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/10_ply_deform.png)
+![=x400](/Tensile_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 41: Tensile Test Setup.</p>
+<p className="italic">Figure 45: Tensile Test Setup.</p>
 </div>
 </div>
 </div>
@@ -30,10 +30,10 @@ To improve simulation accuracy, material properties were obtained experimentally
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/10_ply_deform.png)
+![=x400](/Compression_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 41: Compressive Test Setup.</p>
+<p className="italic">Figure 46: Compressive Test Setup.</p>
 </div>
 </div>
 </div>
@@ -44,10 +44,10 @@ To improve simulation accuracy, material properties were obtained experimentally
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/10_ply_deform.png)
+![=x400](/3_Point_Bending_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 41: 3 Point Bending Test Setup.</p>
+<p className="italic">Figure 47: 3 Point Bending Test Setup.</p>
 </div>
 </div>
 </div>
@@ -61,30 +61,30 @@ With the testing done, the stock material data in Ansys is modified. The values 
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/10_ply_deform.png)
+![=x400](/Modified_Material_Data.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 41: Modified Material Data.</p>
+<p className="italic">Figure 48: Modified Material Data.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/10_ply_deform.png)
+![=x400](/3_Point_Bending_Simulation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 41: 3PB Simulation.</p>
+<p className="italic">Figure 49: 3PB Simulation.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/10_ply_deform.png)
+![=x400](/3_Point_Bending_Error.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 41: Variance in error.</p>
+<p className="italic">Figure 50: 3 Point Bending Error.</p>
 </div>
 </div>
 </div>

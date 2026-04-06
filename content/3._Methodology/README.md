@@ -1,7 +1,7 @@
 ---
 title: 3. Methodology
 description: How do we formulate the solution?
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 3
 tags: [Compare]

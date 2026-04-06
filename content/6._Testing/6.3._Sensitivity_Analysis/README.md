@@ -1,10 +1,10 @@
 ---
 title: 6.3. Sensitivity Analysis
 description: Why is it off?
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 3
-tags: [Layup]
+tags: [Sensitivity, Material Properties]
 access: [0]
 ---
 
@@ -13,19 +13,29 @@ Given the large discrepancy observed, individual simulations and sensitivity ana
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/base_3_piece.png)
+![=x400](/Tensile_Simulation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 43: Tensile Simulation.</p>
+<p className="italic">Figure 51: Tensile Simulation.</p>
 </div>
 </div>
 </div>
 
 <div>
-![=x400](/side_3_piece.png)
+![=x400](/Compression_Simulation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 44: Compression Simulation.</p>
+<p className="italic">Figure 52: Compression Simulation.</p>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=x400](/Individual_Sim_Error.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 53: Individual Sim Error.</p>
+</div>
 </div>
 </div>
 
@@ -33,10 +43,10 @@ Subsequently, individual material properties were systematically reduced by a fa
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Mat_Data_Sensitivity_Analysis.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 47: Comparison of material property simulations.</p>
+<p className="italic">Figure 54: Mat Data Sensitivity Analysis.</p>
 </div>
 </div>
 </div>

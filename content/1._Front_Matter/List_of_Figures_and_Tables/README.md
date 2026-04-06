@@ -1,7 +1,7 @@
 ---
 title: 1.2. List of Figures and Tables
 description: Additional info
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 2
 tags: [Figures,Tables, Abbreviations]
@@ -60,22 +60,53 @@ access: [0]
 - Figure 37: Contact with Brake Pad Tabs.
 - Figure 38: Bolt Hole Stress.
 - Figure 39: Damage on Bolt Holes.
-- Figure 40: Generic Wet Fabric Properties.
-- Figure 41: 10-Ply Deformation.
-- Figure 42: 10-Ply Stress.
-- Figure 43: Base Ply.
-- Figure 44: Side Ply.
-- Figure 45: Rim Ply.
-- Figure 46: Extruded Solid.
-- Figure 47: Timeline.
-- Figure 48: Accel Results.
-- Figure 49: Skidpad Results.
-- Figure 50: Autocross Results.
-- Figure 51: Endurance Results.
-- Figure 52: Efficiency Results.
-- Figure 53: Wheel Construction Types.
-- Figure 54: Proximity Cross Section.
-- Figure 55: Proximity Close Up.
+- Figure 40: Laying of Panel.
+- Figure 41: DXF File of Specimen.
+- Figure 42: Initial Compression Data Comparison.
+- Figure 43: Retest Compression Data Comparison.
+- Figure 44: Revised Experiment with Tilt Deflection.
+- Figure 45: Tensile Test Setup.
+- Figure 46: Compression Test Setup.
+- Figure 47: 3 Point Bending Test Setup.
+- Figure 48: Modified Material Data.
+- Figure 49: 3 Point Bending Simulation.
+- Figure 50: 3 Point Bending Error.
+- Figure 51: Tensile Simulation.
+- Figure 52: Compression Simulation.
+- Figure 53: Individual Sim Error.
+- Figure 54: Mat Data Sensitivity Analysis.
+- Figure 55: Aluminium Specimen.
+- Figure 56: Comparison Alu Sim and Experiment.
+- Figure 57: Calculated Alu Deflection Comparison.
+- Figure 58: Instron 8874 Load Deflection Test Setup.
+- Figure 59: Instron 8874 No Load Deflection Test Setup.
+- Figure 60: Instron 8874 Load Deflection Data.
+- Figure 61: Instron 8874 No Load Deflection Data.
+- Figure 62: Instron 8501 No Load Deflection Test Setup.
+- Figure 63: Instron 8501 Deflection Data.
+- Figure 64: Instron 8501 Top oscillating.
+- Figure 65: Instron 8501 Bottom oscillating.
+- Figure 66: SAE Standard Testing.
+- Figure 67: Compression with Tire.
+- Figure 68: Tire Compression Data.
+- Figure 69: Gap on Carbon Fiber Rim.
+- Figure 70: Tilting of Applicator.
+- Figure 71: Calibration Quote.
+- Figure 72: Horizontal Dial Gauge Range.
+- Figure 73: Extensometer.
+- Figure 74: DIC Machine.
+- Figure 75: Rim Centre Stress.
+- Figure 76: Acceleration Result.
+- Figure 77: Skidpad result.
+- Figure 78: Autocross Results.
+- Figure 79: Endurance Results.
+- Figure 80: Efficiency Results.
+- Figure 81: Wheel Construction Types.
+- Figure 82: Buckling Sketch
+- Figure 83: Strain Guage Used
+- Figure 84: Strain Guage Used 2
+- Figure 85: Tensile Specimen
+- Figure 86: Compression Specimen
 
 
 #### List of Tables

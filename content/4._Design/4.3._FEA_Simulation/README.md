@@ -1,7 +1,7 @@
 ---
 title: 4.3. FEA Simulation
 description: Simulating stress
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 3
 tags: [FEA, ACP]

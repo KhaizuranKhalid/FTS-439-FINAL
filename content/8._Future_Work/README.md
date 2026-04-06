@@ -1,9 +1,9 @@
 ---
 title: 8. Future Work
 description: Whats next?
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
-order: 7
+order: 8
 tags: [Future Work]
 access: [0]
 ---
@@ -16,20 +16,20 @@ Future testing should incorporate additional measuring devices such as Extensome
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Extensometer.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Extensometer.</p>
+<p className="italic">Figure 73: Extensometer.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/DIC_Machine.webp)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: DIC Machine.</p>
+<p className="italic">Figure 74: DIC Machine.</p>
 </div>
 </div>
 </div>
@@ -40,10 +40,10 @@ Factoring out stress concentrations, the stress is 1075.3 MPa. These stress conc
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Rim_Centre_Stress.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Rim Centre Stress.</p>
+<p className="italic">Figure 75: Rim Centre Stress.</p>
 </div>
 </div>
 </div>

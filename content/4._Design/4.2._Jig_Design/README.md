@@ -1,7 +1,7 @@
 ---
 title: 4.2. Jig Design
 description: To test the rim
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 2
 tags: [jigs]

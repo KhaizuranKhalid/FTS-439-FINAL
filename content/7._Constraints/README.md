@@ -1,7 +1,7 @@
 ---
 title: 7. Constraints
 description: What went wrong
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 7
 tags: [Constraints, error]
@@ -16,30 +16,30 @@ According to industry practices such as the SAE standards, compression testing i
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/SAE_J3203_Test.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: SAE Standard Testing.</p>
+<p className="italic">Figure 66: SAE J3203 Testing.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Compression_With_Tire.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Compression with Tire.</p>
+<p className="italic">Figure 67: Compression with Tire.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Tire_Compression_Data.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Tire Compression Data.</p>
+<p className="italic">Figure 68: Tire Compression Data.</p>
 </div>
 </div>
 </div>
@@ -52,10 +52,20 @@ Due to manufacturing tolerances, the rims were not perfectly concentric. As a re
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Gap_On_Carbon_Fiber_Rim.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Gap on carbon fiber rim.</p>
+<p className="italic">Figure 69: Gap on carbon fiber rim.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=x400](/Uneven_Deflection_Rim.jpg)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 70: Tilting of Applicator.</p>
 </div>
 </div>
 </div>
@@ -66,10 +76,10 @@ The testing machines are over 15 years old and undergo annual calibration, typic
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Calibration_Quote.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Calibration Quote.</p>
+<p className="italic">Figure 71: Calibration Quote.</p>
 </div>
 </div>
 </div>
@@ -80,10 +90,10 @@ The available horizontal dial gauges had a limited range of 0.8mm while the expe
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Horizontal_Dial_Guage_Range.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Horizontal Dial Gauge Range.</p>
+<p className="italic">Figure 72: Horizontal Dial Gauge Range.</p>
 </div>
 </div>
 </div>

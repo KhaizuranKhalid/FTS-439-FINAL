@@ -1,7 +1,7 @@
 ---
 title: 4.4. Results
 description: 
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 4
 tags: [FEA, Results, Deformation, Stress]

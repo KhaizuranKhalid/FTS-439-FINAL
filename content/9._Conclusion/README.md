@@ -1,14 +1,14 @@
 ---
 title: 9. Conclusion
 description: Thats it folks
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
-order: 7
+order: 9
 tags: [Conclusion]
 access: [0]
 ---
 
-This project aimed to develop and validate a methodology for analysis carbon fiber wheel performance through experimental testing and simulation. Initial results revealed significant discrepancies between simulation and experimental data, with errors up to 280%. Through systematic investigation, including re-testing, sensitivity analysis and validation of simulation using aluminium specimens, it was determined that these discrepancies were not primarily due to material or simulation modelling inaccuracies.
+This project aimed to develop and validate a methodology for analysis carbon fiber wheel performance through experimental testing and simulation. Initial results revealed significant discrepancies between simulation and experimental data, with errors up to 98%. Through systematic investigation, including re-testing, sensitivity analysis and validation of simulation using aluminium specimens, it was determined that these discrepancies were not primarily due to material or simulation modelling inaccuracies.
 
 Instead, the dominant source of error was identified as experimental measurement limitation, particularly using the use of crosshead displacement on the universal testing machines. Further investigation confirmed that atleast one of the machine displayed compliance and control instability that can significantly influence measured displacement, especially for stiff structures where actual deflection is small. It is currently unknown the source of error for the other machine.
 

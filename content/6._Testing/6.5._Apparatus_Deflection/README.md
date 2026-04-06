@@ -1,10 +1,10 @@
 ---
 title: 6.5. Apparatus Deflection 
 description: Is the apparatus too compliant?
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 5
-tags: [Manufacturing]
+tags: [Apparatus]
 access: [0]
 ---
 
@@ -12,80 +12,81 @@ Given the evidence pointing towards experimental error, an investigation on the 
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Instron_8874_Load_Deflection_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Test setup.</p>
+<p className="italic">Figure 58: Instron 8874 Load Test Setup.</p>
+</div>
+</div>
+</div>
+
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=x400](/Instron_8874_No_Load_Deflection_Test_Setup.jpg)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 59: Instron 8874 No Load Test Setup.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
-
-<div className="flex gap-6 justify-center items-center">
-<div>
-![=x400](/edge_3_piece.png)
+![=x400](/Instron_8874_Load_Data.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: No Load Setup 8874.</p>
+<p className="italic">Figure 60: Instron 8874 Load Deflection Data.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Instron_8874_No_Load_Data.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: No Load Setup 8501.</p>
+<p className="italic">Figure 61: Instron 8874 No Load Deflection Data.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Instron_8501_No_Load_Deflection_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Instron 8874 Data.</p>
+<p className="italic">Figure 62: Instron 8501 No Load Deflection Test Setup.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Instron_8501_No_Load_Data.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Instron 8501 Data.</p>
+<p className="italic">Figure 63: Instron 8501 No Load Deflection Test Data.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Instron_8501_Top_Oscillation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Oscilating Movement 1.</p>
+<p className="italic">Figure 64: Oscilating Movement 1.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/edge_3_piece.png)
+![=x400](/Instron_8501_Bottom_Oscillation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Oscilating Movement 2.</p>
-</div>
-</div>
-</div>
-
-<div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: Deflection comparison.</p>
+<p className="italic">Figure 65: Oscilating Movement 2.</p>
 </div>
 </div>
 </div>

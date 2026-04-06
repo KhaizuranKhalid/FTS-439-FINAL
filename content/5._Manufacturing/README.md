@@ -1,10 +1,10 @@
 ---
 title: 5. Manufacturing
 description: 
-date: 2025-11-12
+date: 2026-4-4
 author: Khaizuran Khalid
 order: 5
-tags: [Constraints]
+tags: [Manufacturing]
 access: [0]
 ---
 
@@ -76,18 +76,18 @@ An 11-ply vacuum infusion carbon fiber panel was laid. This is because of its si
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![=x400](/CF_max_stress.png)
+![=x400](/Laying_of_Panel.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 38: Laying of panel.</p>
+<p className="italic">Figure 40: Laying of panel.</p>
 </div>
 </div>
 
 <div>
-![=x400](/Hole_damage.png)
+![=x400](/DXF_File_Of_CF_Specimen.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 39: DXF File of Specimens.</p>
+<p className="italic">Figure 41: DXF File of Specimens.</p>
 </div>
 </div>
 </div>
