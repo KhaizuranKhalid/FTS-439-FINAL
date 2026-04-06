@@ -1,5 +1,5 @@
 ---
-title: 5. Constraints
+title: 5. Manufacturing
 description: 
 date: 2025-11-12
 author: Khaizuran Khalid
@@ -67,6 +67,27 @@ threads of the bolt coming into contact and rubbing on the holes. This could be 
 
 <div className="w-full flex items-center justify-center">
 <p className="italic">Figure 39: Damage on Bolt Holes.</p>
+</div>
+</div>
+</div>
+
+## **Specimen Panel**
+An 11-ply vacuum infusion carbon fiber panel was laid. This is because of its similarity to the dimension needed to match the aluminium rims. The panels were cut, laid and infused in a single process. The panel was then cured for 48hours for best results. The panel was then sent for waterjet processing to cut out the required specimens. Waterjet was chosen for the post processing method to minimise its heat affected zone which may degrade the epoxy of the carbon fiber. 
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=x400](/CF_max_stress.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 38: Laying of panel.</p>
+</div>
+</div>
+
+<div>
+![=x400](/Hole_damage.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 39: DXF File of Specimens.</p>
 </div>
 </div>
 </div>
