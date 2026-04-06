@@ -99,7 +99,7 @@ export function PasswordProtection({
   }, [isEnabled]);
 
   const mapPasswordToAccess = (pwd: string): number => {
-    if (pwd === "NUSFSAER26e") return 99; // Superuser
+    if (pwd === "NUSFSAER26") return 99; // Superuser
     if (pwd === "NUSFSAEY2") return 1;
     if (pwd === "NUSFormulaSAER26e") return 2;
     if (pwd === "NUSFSAE3301") return 3;
