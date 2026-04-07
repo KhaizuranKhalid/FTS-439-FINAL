@@ -26,7 +26,7 @@ export function ImageProvider({ children }: ImageProviderProps) {
       } else if (hostname.includes(".github.dev")) {
         return;
       } else if (protocol === "https:" && hostname !== "localhost") {
-        setBaseUrl("https://khaizurankhalid.github.io/FTS-439-Interim");
+        setBaseUrl("https://khaizurankhalid.github.io/FTS-439-FINAL");
       } else {
         setBaseUrl("");
       }
