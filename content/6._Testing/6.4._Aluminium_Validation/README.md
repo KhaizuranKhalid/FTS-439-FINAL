@@ -7,7 +7,7 @@ order: 4
 tags: [Aluminium]
 access: [0]
 ---
-To isolate material-related and software uncertainties, 6061 aluminium specimens were tested under identical conditions. Aluminium waas selected for its well-characterised isotropic properties, eliminating the complexity associated with composite modelling.
+To isolate material-related and software uncertainties, 6061 aluminium specimens were tested under identical conditions. Aluminium waas selected for its well-characterised isotropic properties, eliminating the complexity associated with composite modelling. Testing was done on the usual Instron 8874.
 
 <div className="flex gap-6 justify-center items-center">
 <div>
@@ -31,7 +31,7 @@ Despite this simplification, the discrepancy between experimental and simulation
 </div>
 </div>
 
-To further verify the simulation model, theorethical deflection was calculated using classical beam theory. This result closely matched the simulation results, confirming that the simulation model is fundamentally accurate. Thi strongly indicates that the observed discrepancies originate from the experimental setup rather than the simulation or material models. 
+To further verify the simulation model, theorethical deflection was calculated using classical beam theory. The result closely matched the simulation results, confirming that the simulation model is fundamentally accurate. This strongly indicates that the observed discrepancies originate from the experimental setup rather than the simulation or material models. 
 
 <div className="flex gap-6 justify-center items-center">
 <div>

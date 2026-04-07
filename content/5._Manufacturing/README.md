@@ -72,7 +72,7 @@ threads of the bolt coming into contact and rubbing on the holes. This could be 
 </div>
 
 ## **Specimen Panel**
-An 11-ply vacuum infusion carbon fiber panel was laid. This is because of its similarity to the dimension needed to match the aluminium rims. The panels were cut, laid and infused in a single process. The panel was then cured for 48hours for best results. The panel was then sent for waterjet processing to cut out the required specimens. Waterjet was chosen for the post processing method to minimise its heat affected zone which may degrade the epoxy of the carbon fiber. 
+An 11-ply vacuum infusion carbon fiber panel was laid. This is because of its similarity to the dimension needed to match the aluminium rims. The panels were cut, laid and infused in a single process. The panel was then cured for 48 hours for best results. The panel was then sent for waterjet processing to cut out the required specimens. Waterjet was chosen for the post processing method to minimise its heat affected zone which may degrade the epoxy of the carbon fiber. 
 
 <div className="flex gap-6 justify-center items-center">
 <div>

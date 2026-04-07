@@ -10,7 +10,7 @@ access: [0]
 
 This project aimed to develop and validate a methodology for analysis carbon fiber wheel performance through experimental testing and simulation. Initial results revealed significant discrepancies between simulation and experimental data, with errors up to 98%. Through systematic investigation, including re-testing, sensitivity analysis and validation of simulation using aluminium specimens, it was determined that these discrepancies were not primarily due to material or simulation modelling inaccuracies.
 
-Instead, the dominant source of error was identified as experimental measurement limitation, particularly using the use of crosshead displacement on the universal testing machines. Further investigation confirmed that atleast one of the machine displayed compliance and control instability that can significantly influence measured displacement, especially for stiff structures where actual deflection is small. It is currently unknown the source of error for the other machine.
+Instead, the dominant source of error was identified as experimental measurement limitation, particularly using the use of crosshead displacement on the universal testing machines. Further investigation confirmed that the instron 8501 displayed compliance and control instability that can significantly influence measured displacement, especially for stiff structures where actual deflection is small. It is currently unknown the source of error for the Instron 8874.
 
 This finding is consistent with observations in existing literature and highlights the importance of accurate dsplacement measurement techniques in experimental validation. 
 

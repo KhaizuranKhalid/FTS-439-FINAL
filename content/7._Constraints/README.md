@@ -48,8 +48,6 @@ According to industry practices such as the SAE standards, compression testing i
 
 As mentioned above, there may be geometric inconsistencies with the rims. Although CNC machining is chosen as the most accurate method to post process the rims, the inner and outer barrels are not exactly concentric to one another. The figure below shows the applicator only having 1 point of contact despite a preload of 200N. To have equal contact of the applicator on both the barrels, it was found that an additional displacement of around 0.5mm. This causes a large preload on one of the barrel and thus cause additional stress on the rim before the actual experiment.
 
-Due to manufacturing tolerances, the rims were not perfectly concentric. As a result, the compression applicator initially contacted the rim at a single point as shown in figure xx. To achieve full contact, an additional displacement of approximately 0.5mmm was required, resulting in a preload of approximately 200N. This affects the accuracy of the measured displacement since one side of the rim is unequally loaded.
-
 <div className="flex gap-6 justify-center items-center">
 <div>
 ![=x400](/Gap_On_Carbon_Fiber_Rim.jpg)
@@ -86,7 +84,7 @@ The testing machines are over 15 years old and undergo annual calibration, typic
 
 4. Dial gauge.
 
-The available horizontal dial gauges had a limited range of 0.8mm while the expected displacements exceeded 6mm. This restricted accurate midspan measurement and required multiple setups, potentiall affecting consistency due to poor displacement control.
+The available horizontal dial gauges had a limited range of 0.8mm while the expected displacements exceeded 6mm. This restricted accurate midspan measurement and required multiple setups, potentially affecting consistency due to poor displacement control.
 
 <div className="flex gap-6 justify-center items-center">
 <div>
