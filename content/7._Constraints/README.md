@@ -46,7 +46,7 @@ According to industry practices such as the SAE standards, impact testing is typ
 
 2. Compression jig for rims.
 
-As mentioned above, there may be geometric inconsistencies with the rims. Although CNC machining is chosen as the most accurate method to post process the rims, the inner and outer barrels are not exactly concentric to one another. The figure below shows the applicator only having 1 point of contact despite a preload of 200N. To have equal contact of the applicator on both the barrels, it was found that an additional displacement of around 0.5mm. This causes a large preload on one of the barrel and thus cause additional stress on the rim before the actual experiment.
+As mentioned above, there may be geometric inconsistencies with the rims. Although CNC machining is chosen as the most accurate method to post process the rims, the inner and outer barrels are not exactly concentric to one another. The figure below shows the applicator only having 1 point of contact despite a preload of 200N. To have equal contact of the applicator on both the barrels, it was found that an additional displacement of around 0.5mm. This causes a large preload on one of the barrel and thus cause additional stress on the rim before the actual experiment. This could also be the cause of the applicator tilting in figure 70.
 
 <div className="flex gap-6 justify-center items-center">
 <div>
@@ -98,7 +98,7 @@ The available horizontal dial gauges had a limited range of 0.8mm while the expe
 
 5. Jig Limitations
 
-As previously mentioned in the sensitivity analysis, the dominant property affecting the simulation was the Shear Modulus of elasticity YZ and XZ (Gᵧz, Gₓz). To derive this material data, ASTM D5379 could be used for out-of-plane shear properties of the composite. However, it requires a specific jig that is not available.
+As previously mentioned in the sensitivity analysis, the dominant property affecting the simulation was the Shear Modulus of elasticity YZ and XZ (Gᵧz, Gₓz). To derive this material data, ASTM D5379 could be used for out-of-plane shear properties of the composite. However, it requires a specific jig that is not available at the impact lab.
 
 <div className="flex gap-6 justify-center items-center">
 <div>

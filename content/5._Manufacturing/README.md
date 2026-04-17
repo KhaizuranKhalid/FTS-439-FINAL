@@ -72,7 +72,7 @@ threads of the bolt coming into contact and rubbing on the holes. This could be 
 </div>
 
 ## **Specimen Panel**
-Instead of the initial plan of testing 7 different plies, only 7, 11 and 14 plies were tested in the interest of time. Additionally, these 3 layups would provide an adequate range for testing purposes. The panels were laid and infused in a single process. The panel was there cured for 48 hours before demoulding. Finally, the panel was then sent for waterjet processing to cut out the required specimens. Waterjet was chosen for the post processing method to minimise its heat affected zone which may degrade the epoxy of the carbon fiber. 
+Instead of the initial plan of testing 7 different plies, only 7, 11 and 14 plies were tested in the interest of time. Additionally, these 3 layups would provide an adequate range for testing purposes. The 7 and 11 ply panels were laid in a single cure. This is as recommended by Mr Kenneth that layups exceeding 10 layers would require 2 cures. As such, the 14 ply panel was cured as 2 separate 7 ply panels. The panels was then cured for 48 hours before demoulding and left to fully cure for another 5 days since the 2175 epoxy requires 7 days for a full cure. Finally, the panels was then sent for waterjet processing to cut out the required specimens. Waterjet was chosen for the post processing method to minimise its heat affected zone since the epoxy in VARTM carbon fiber is more sensitive to heat. 
 
 <div className="flex gap-6 justify-center items-center">
 <div>

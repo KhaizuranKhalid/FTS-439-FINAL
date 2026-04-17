@@ -44,6 +44,6 @@ For the re-test, a reduced load of 1500N was applied to focus on comparative val
 </div>
 </div>
 
-The contradiction between simulation and experimental trends strongly suggests the presence of systematic experimental error that will be discussed in the Constraints section.
+Additionally, the variance between simulation and experiment forms an error of 78% and 321% for aluminium and carbon fiber wheels respectively. This questions the validity of the simulation. The contradiction between simulation and experimental trends strongly suggests the presence of systematic experimental error that will be discussed in the Constraints section.
 
 

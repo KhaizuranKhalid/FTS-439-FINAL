@@ -38,7 +38,7 @@ Additionally, since the displacement control is possible inaccurate, it is also 
 
 2. Wheel Centre Redesign.
 
-Factoring out stress concentrations, the stress is 1075.3 MPa. These stress concentrations could be affected by the Keizer wheel centres. The current part has limited contact area and a redesign could improve load distribution and reduce stresses. This would not require modification of the mold.
+Factoring out stress at the bead caused by the unrealistic contact of the applicator, the stress is 1075.3 MPa. These stress concentrations could be affected by the Keizer wheel centres. The current part has limited contact area and a redesign could improve load distribution and reduce stresses. This would not require modification of the mold, only a modification to the final post processed rim to accomodate the updated wheel centre design.
 
 <div className="flex gap-6 justify-center items-center">
 <div>
@@ -66,4 +66,4 @@ The steel plate for the shaft was modified to be able to fit the new jig. This m
 
 4. Specimen Jig
 
-The specimen would need to be tested under the ASTM D5379 to confirm the shear modulus XZ and YZ. This would then be able to confirm the validity of the simulated results.
+The specimen would need to be tested under the ASTM D5379 to confirm the shear modulus XZ and YZ. This would then be able to confirm the validity of the simulated results. The jig could be purchased or have the specimen tested by an external testing house.
