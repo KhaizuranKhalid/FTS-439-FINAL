@@ -29,17 +29,17 @@ For the re-test, a reduced load of 1500N was applied to focus on comparative val
 ![](/Revised_Experiment_with_Tilt_Deflection.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 44: Revised experiment with tilt deflection.</p>
+<p className="italic">Figure 43: Revised experiment with tilt deflection.</p>
 </div>
 </div>
 </div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![](/Retest Compression Data Comparison.png)
+![](/Retest_Compression_Data_Comparison.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 43: Retest Compression Data Comparison.</p>
+<p className="italic">Figure 44: Retest Compression Data Comparison.</p>
 </div>
 </div>
 </div>
