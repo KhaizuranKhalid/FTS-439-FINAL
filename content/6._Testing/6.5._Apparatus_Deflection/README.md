@@ -91,5 +91,5 @@ Given the evidence pointing towards experimental error, an investigation on the 
 </div>
 </div>
 
-The Instron 8501 is deemed inaccurate since it has a basic error of 41%. The Instron 8874 on the other hand has a small variance between indicated and actual displacements. It is unclear where the variance comes from.
+The Instron 8501 is deemed inaccurate since it has a basic error of 41%. The Instron 8874 on the other hand has a small variance between indicated and actual displacements. It is possible that the compliance is dominant in the lower portion of the jig, dial gauges should have been deployed to check on this displacement. It is also possible that the contact points experienced plastic deformation that contributed to additional displacement of the applicator that is not replicated in the simulation. 
 

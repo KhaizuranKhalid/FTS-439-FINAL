@@ -19,13 +19,13 @@ Given the large discrepancy observed, individual simulations and sensitivity ana
 <p className="italic">Figure 51: Tensile Simulation.</p>
 </div>
 </div>
-</div>
 
 <div>
 ![=x400](/Compression_Simulation.png)
 
 <div className="w-full flex items-center justify-center">
 <p className="italic">Figure 52: Compression Simulation.</p>
+</div>
 </div>
 </div>
 
@@ -39,7 +39,7 @@ Given the large discrepancy observed, individual simulations and sensitivity ana
 </div>
 </div>
 
-Subsequently, individual material properties were systematically reduced by a factor of 10 to evaluate their influence. This revealed that Shear Modulus YZ and XZ (Gᵧz, Gₓz) had the greatest influence on the 3 point bending deflection. Although the reduction of these values reduced the simulation-experiment gap, the required reduction is unrealistic for carbon fiber composites. This confirms that the discrepancy is not only affected by the material properties alone.
+Subsequently, individual material properties were systematically reduced by a factor of 10 to evaluate their influence. This revealed that Shear Modulus of elasticity YZ and XZ (Gᵧz, Gₓz) had the greatest influence on the 3 point bending deflection. Although the reduction of these values reduced the simulation-experiment gap, the required reduction is unrealistic for carbon fiber composites. This confirms that the discrepancy is not only affected by the material properties alone.
 
 <div className="flex gap-6 justify-center items-center">
 <div>

@@ -95,3 +95,17 @@ The available horizontal dial gauges had a limited range of 0.8mm while the expe
 </div>
 </div>
 </div>
+
+5. Jig Limitations
+
+As previously mentioned in the sensitivity analysis, the dominant property affecting the simulation was the Shear Modulus of elasticity YZ and XZ (Gᵧz, Gₓz). To derive this material data, ASTM D5379 could be used for out-of-plane shear properties of the composite. However, it requires a specific jig that is not available.
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=x400](/ASTM_D5379_Jig.jpg)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 73: ASTM D5379 Jig.</p>
+</div>
+</div>
+</div>

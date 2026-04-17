@@ -72,7 +72,7 @@ threads of the bolt coming into contact and rubbing on the holes. This could be 
 </div>
 
 ## **Specimen Panel**
-An 11-ply vacuum infusion carbon fiber panel was laid. This is because of its similarity to the dimension needed to match the aluminium rims. The panels were cut, laid and infused in a single process. The panel was then cured for 48 hours for best results. The panel was then sent for waterjet processing to cut out the required specimens. Waterjet was chosen for the post processing method to minimise its heat affected zone which may degrade the epoxy of the carbon fiber. 
+Instead of the initial plan of testing 7 different plies, only 7, 11 and 14 plies were tested in the interest of time. Additionally, these 3 layups would provide an adequate range for testing purposes. The panels were laid and infused in a single process. The panel was there cured for 48 hours before demoulding. Finally, the panel was then sent for waterjet processing to cut out the required specimens. Waterjet was chosen for the post processing method to minimise its heat affected zone which may degrade the epoxy of the carbon fiber. 
 
 <div className="flex gap-6 justify-center items-center">
 <div>
@@ -89,5 +89,29 @@ An 11-ply vacuum infusion carbon fiber panel was laid. This is because of its si
 <div className="w-full flex items-center justify-center">
 <p className="italic">Figure 41: DXF File of Specimens.</p>
 </div>
+</div>
+</div>
+
+<div>
+![=x400](/7ply_Specimen_Dimensions.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 42: 7ply Specimen Dimensions.</p>
+</div>
+</div>
+
+<div>
+![=x400](/11ply_Specimen_Dimensions.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 43: 11ply Specimen Dimensions.</p>
+</div>
+</div>
+
+<div>
+![=x400](/14ply_Specimen_Dimensions.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 44: 14ply Specimen Dimensions.</p>
 </div>
 </div>
