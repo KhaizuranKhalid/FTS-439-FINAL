@@ -36,7 +36,7 @@ For the re-test, a reduced load of 1500N was applied to focus on comparative val
 
 <div className="flex gap-6 justify-center items-center">
 <div>
-![](/Retest_Compression_Data_Comparison.png)
+![](/Retest Compression Data Comparison.png)
 
 <div className="w-full flex items-center justify-center">
 <p className="italic">Figure 43: Retest Compression Data Comparison.</p>

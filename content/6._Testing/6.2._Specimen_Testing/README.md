@@ -37,9 +37,8 @@ The untabbed specimens are gripped with 120 grit sandpaper in the clamping jaws 
 <p className="italic">Figure 46: Compressive Test Setup.</p>
 </div>
 </div>
-</div>
-
 The specimens are flushed with the ends of the jig before being clamped down with 7nm of bolt tension. Care needs to be taken to calibrate the test parameters to ensure that the failure point lies on the gage area. Initial experiments failed to stop in time and caused multiple failure points.
+</div>
 
 <div className="flex gap-6 justify-center items-center">
 <div>
@@ -63,12 +62,13 @@ The specimens are flushed with the ends of the jig before being clamped down wit
 <p className="italic">Figure 47: 3 Point Bending Test Setup.</p>
 </div>
 </div>
+The specimens are marked for easy alignment on the jig. The jig uses 6mm dowel pins as the contact points as specified in the standard. The crosshead then compresses and bends the specimen till failure.
 </div>
 
 <div></div>
 <br></br>
 
-The specimens are marked for easy alignment on the jig. The jig uses 6mm dowel pins as the contact points as specified in the standard. The crosshead then compresses and bends the specimen till failure.
+
 
 As previously mentioned, the specimens were fabricated from a single panel of carbon fiber and cut with a waterjet. This reduces manufacturing variance. To note, the 3 point bending tests were done on the Instron 8501 instead of the typical Instron 8874 as the machine was in use by another project. The compiled results for the 3 layups are reflected in the figures below.
 
