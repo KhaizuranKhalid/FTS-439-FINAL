@@ -22,9 +22,8 @@ To improve simulation accuracy, material properties were obtained experimentally
 <p className="italic">Figure 45: Tensile Test Setup.</p>
 </div>
 </div>
-</div>
-
 The untabbed specimens are gripped with 120 grit sandpaper in the clamping jaws of the Instron 8501. The crossheads then pull the specimen till failure.
+</div>
 
 2. **ASTM D6641 on Shimadzu AT25GB**
 <div></div>
