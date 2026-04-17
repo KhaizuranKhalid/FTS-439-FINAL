@@ -8,7 +8,7 @@ tags: [Compression testing, variance]
 access: [0]
 ---
 
-Upon reviewing the previous experimental data, it was observed that the prepreg carbon fiber rims exhibited significantly greater displacement of the applicator than the aluminium rims. This contradicts fundamental expecteations as carbon fiber laminates are typically stiffer than aluminium for comparable geometries.
+Upon reviewing the previous experimental data, it was observed that the prepreg carbon fiber rims exhibited significantly greater displacement of the applicator than the aluminium rims. This contradicts fundamental expectations as carbon fiber laminates are typically stiffer than aluminium.
 
 From the initial results below, it is simulated that the carbon rims are 16.23% less stiff than the aluminium rims. However, experimental results showed that the carbon fiber rims are 80.81% less stiff than the aluminium rims, a 64.58% difference in stiffness.
 

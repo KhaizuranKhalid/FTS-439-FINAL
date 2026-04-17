@@ -55,9 +55,9 @@ To improve simulation accuracy, material properties were obtained experimentally
 <div></div>
 <br></br>
 
-As previously mentioned, the specimens were fabricated from a single panel of carbon fiber and cut with a waterjet. This reduces manufacturing variance and avoids heat affected zones. To note, the 3 point bending tests were done on the Instron 8501 instead of the typical Instron 8874 as the machine was in use by another project. The compiled results for the 3 layups are reflected in the figures below.
+As previously mentioned, the specimens were fabricated from a single panel of carbon fiber and cut with a waterjet. This reduces manufacturing variance and avoids heat affected zones since VARTM carbon fiber is typically more sensitive to heat than Prepreg carbon fiber. To note, the 3 point bending tests were done on the Instron 8501 instead of the typical Instron 8874 as the machine was in use by another project. The compiled results for the 3 layups are reflected in the figures below.
 
-As 11ply layup is likely to be chosen for its thickness similar to that of the aluminium rims, the stock material data in Ansys is modified according to the results gathered. The highlighted cells in figure 48 marks the new values derived from the experiments. The material data is then used on a 3 point bending simulation to validate the material data. The simulated results however was not accurate with a 63% error. 
+As 11ply layup is likely to be chosen for its thickness similar to that of the aluminium rims, the stock material data in Ansys is modified according to the results gathered. The highlighted cells in figure 48 marks the new values derived from the experiments. The material data is then used on a 3 point bending simulation to validate the material data. The simulated results however was not accurate with a 63% error. Despite mesh improvements and different boundary conditions, this did not improve the error.
 
 <div className="flex gap-6 justify-center items-center">
 <div>

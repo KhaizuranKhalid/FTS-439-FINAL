@@ -7,7 +7,7 @@ order: 4
 tags: [Aluminium]
 access: [0]
 ---
-To isolate material-related and software uncertainties, 6061 aluminium specimens were tested under identical conditions. Aluminium waas selected for its well-characterised isotropic properties, eliminating the complexity associated with composite modelling. Testing was done on the usual Instron 8874.
+To isolate material-related and software uncertainties, 6061 aluminium specimens were tested under identical conditions. Aluminium was selected for its well-characterised isotropic properties, eliminating the complexity associated with composite modelling. Testing was done on the usual Instron 8874.
 
 <div className="flex gap-6 justify-center items-center">
 <div>

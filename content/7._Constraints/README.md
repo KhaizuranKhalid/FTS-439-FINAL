@@ -12,7 +12,7 @@ Several limitations were identified throughout the course of this project:
 
 1. Compression test of rims.
 
-According to industry practices such as the SAE standards, compression testing is typically performed with tires mounted. This provides a more realistic load distribution and accounts for geometric irregularities. Testing with tires showed an applicator displacement of 14.832mm and 13.986mm for aluminium rims and prepreg carbon rims respectively. This contrasts with the results obtained without tires, indicating that the loading condition initially set with direct contact is unrealistic.
+According to industry practices such as the SAE standards, impact testing is typically performed with tires mounted. This provides a more realistic load distribution and accounts for geometric irregularities. Testing with tires showed an applicator displacement of 14.832mm and 13.986mm for aluminium rims and prepreg carbon rims respectively, suggesting that the carbon fiber rim is stiffer. This contradicts with the results obtained without tires, indicating that the loading condition initially set with direct contact is unrealistic.
 
 <div className="flex gap-6 justify-center items-center">
 <div>
