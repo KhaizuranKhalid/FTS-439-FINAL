@@ -80,6 +80,16 @@ access: [0]
 
 <div className="flex gap-6 justify-center items-center">
 <div>
+![=](/Failure_modes.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 89: Failure Modes.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
 ![=](/Strain_Gauge_Used.jpg)
 
 <div className="w-full flex items-center justify-center">
@@ -114,6 +124,66 @@ access: [0]
 
 <div className="w-full flex items-center justify-center">
 <p className="italic">Figure 86: Compression Specimen.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=](/7ply_Specimen_Dimensions.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 87: 7 Ply Specimen Dimensions.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=](/11ply_Specimen_Dimensions.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 88: 11 Ply Specimen Dimensions.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=](/14ply_Specimen_Dimensions.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 89: 14 Ply Specimen Dimensions.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=](/7ply_material_strength.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 90: 7 Ply Material Strength.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=](/11ply_material_strength.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 91: 11 Ply Material Strength.</p>
+</div>
+</div>
+</div>
+
+<div className="flex gap-6 justify-center items-center">
+<div>
+![=](/14ply_material_strength.png)
+
+<div className="w-full flex items-center justify-center">
+<p className="italic">Figure 92: 14 Ply Material Strength.</p>
 </div>
 </div>
 </div>

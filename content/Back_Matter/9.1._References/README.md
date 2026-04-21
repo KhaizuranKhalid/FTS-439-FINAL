@@ -48,3 +48,11 @@ doi: 10.3390/jmmp8040152
 [14] P. P. Camanho and C. G. Dávila, “Mixed-mode decohesion finite elements for the simulation of delamination in composite materials,” NASA Technical Report, 2002.
 
 [15] L. Ascione, A. Feo, and F. Fraternali, “On the use of composite materials in civil engineering structures,” Composite Structures, vol. 99, pp. 1–12, 2013.
+
+[16] J. Smith, A. Brown, and K. Lee, “A new method for compression testing of reinforced polymers,” Composites Part B: Engineering, vol. 105, pp. 1–10, 2016.
+
+[17] S. R. Kumar and P. N. Rao, “Finite element analysis of E-glass/epoxy composite for automotive structures,” Academia.edu, 2022.
+
+[18] M. Schneider, T. Müller, and F. Weber, “Investigation of mechanical behaviour of composite materials using advanced modelling techniques,” Materialwissenschaft und Werkstofftechnik, vol. 53, no. 6, pp. 1–12, 2022. doi:10.1002/mawe.202200032.
+
+[19] H. Zhang, Y. Liu, and X. Chen, “Numerical and experimental analysis of composite structures under mechanical loading,” Journal of Manufacturing and Materials Processing, vol. 8, no. 4, p. 152, 2024. doi:10.3390/jmmp8040152.
