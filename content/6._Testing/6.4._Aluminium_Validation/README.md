@@ -14,7 +14,7 @@ To isolate material-related and software uncertainties, 6061 aluminium specimens
 ![=x400](/Aluminium_Specimen.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 55: Aluminium specimen.</p>
+<p className="italic">Figure 59: Aluminium specimen.</p>
 </div>
 </div>
 </div>
@@ -26,7 +26,7 @@ Despite this simplification, the discrepancy between experimental and simulation
 ![=x400](/Comparison_Alu_Sim_And_Experiment.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 56: Comparison between simulation and experimental values.</p>
+<p className="italic">Figure 60: Comparison between simulation and experimental values.</p>
 </div>
 </div>
 </div>
@@ -38,7 +38,7 @@ To further verify the simulation model, theorethical deflection was calculated u
 ![=x400](/Calculated_Alu_Deflection_Comparison.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 57: Calculated Deflection Values.</p>
+<p className="italic">Figure 61: Calculated Deflection Values.</p>
 </div>
 </div>
 </div>

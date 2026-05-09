@@ -17,7 +17,7 @@ From the initial results below, it is simulated that the carbon rims are 16.23% 
 ![](/Initial_Compression_Data_Compression.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 42: Initial Compression Data Comparison.</p>
+<p className="italic">Figure 45: Initial Compression Data Comparison.</p>
 </div>
 </div>
 </div>
@@ -29,7 +29,7 @@ For the re-test, a reduced load of 1500N was applied to focus on comparative val
 ![](/Revised_Experiment_with_Tilt_Deflection.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 43: Revised experiment with tilt deflection.</p>
+<p className="italic">Figure 46: Revised experiment with tilt deflection.</p>
 </div>
 </div>
 </div>
@@ -39,7 +39,7 @@ For the re-test, a reduced load of 1500N was applied to focus on comparative val
 ![](/Retest_Compression_Data_Comparison_V2.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 44: Retest Compression Data Comparison.</p>
+<p className="italic">Figure 47: Retest Compression Data Comparison.</p>
 </div>
 </div>
 </div>

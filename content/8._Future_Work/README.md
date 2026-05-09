@@ -21,7 +21,7 @@ Additionally, since the displacement control is possible inaccurate, it is also 
 ![=x400](/Extensometer.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 73: Extensometer.</p>
+<p className="italic">Figure 81: Extensometer.</p>
 </div>
 </div>
 </div>
@@ -31,7 +31,7 @@ Additionally, since the displacement control is possible inaccurate, it is also 
 ![=x400](/DIC_Machine.webp)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 74: DIC Machine.</p>
+<p className="italic">Figure 82: DIC Machine.</p>
 </div>
 </div>
 </div>
@@ -45,7 +45,7 @@ Factoring out stress at the bead caused by the unrealistic contact of the applic
 ![=x400](/Rim_Centre_Stress.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 75: Rim Centre Stress.</p>
+<p className="italic">Figure 83: Rim Centre Stress.</p>
 </div>
 </div>
 </div>
@@ -55,7 +55,7 @@ Factoring out stress at the bead caused by the unrealistic contact of the applic
 ![=x400](/Keizer_wheel_centre_Contact_area.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 76: Rim Centre Contact Area.</p>
+<p className="italic">Figure 84: Rim Centre Contact Area.</p>
 </div>
 </div>
 </div>

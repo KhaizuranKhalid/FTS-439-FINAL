@@ -19,7 +19,7 @@ To improve simulation accuracy, material properties were obtained experimentally
 ![=x400](/Tensile_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 45: Tensile Test Setup.</p>
+<p className="italic">Figure 48: Tensile Test Setup.</p>
 </div>
 </div>
 The untabbed specimens are gripped with 120 grit sandpaper in the clamping jaws of the Instron 8501. The crossheads then pull the specimen till failure.
@@ -34,7 +34,7 @@ The untabbed specimens are gripped with 120 grit sandpaper in the clamping jaws 
 ![=x400](/Compression_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 46: Compressive Test Setup.</p>
+<p className="italic">Figure 49: Compressive Test Setup.</p>
 </div>
 </div>
 The specimens are flushed with the ends of the jig before being clamped down with 7nm of bolt tension. Care needs to be taken to calibrate the test parameters to ensure that the failure point lies on the gage area. Initial experiments failed to stop in time and caused multiple failure points.
@@ -45,7 +45,7 @@ The specimens are flushed with the ends of the jig before being clamped down wit
 ![=x400](/Multiple_Cracks_Compression.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 46: Multiple Cracks on Specimen.</p>
+<p className="italic">Figure 50: Multiple Cracks on Specimen.</p>
 </div>
 </div>
 </div>
@@ -59,7 +59,7 @@ The specimens are flushed with the ends of the jig before being clamped down wit
 ![=x400](/3_Point_Bending_Test_Setup.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 47: 3 Point Bending Test Setup.</p>
+<p className="italic">Figure 51: 3 Point Bending Test Setup.</p>
 </div>
 </div>
 The specimens are marked for easy alignment on the jig. The jig uses 6mm dowel pins as the contact points as specified in the standard. The crosshead then compresses and bends the specimen till failure.
@@ -81,7 +81,7 @@ The material data is then used on the 3 point bending simulation to validate the
 ![=x400](/Modified_Material_Data.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 48: Modified Material Data.</p>
+<p className="italic">Figure 52: Modified Material Data.</p>
 </div>
 </div>
 </div>
@@ -91,7 +91,7 @@ The material data is then used on the 3 point bending simulation to validate the
 ![=x400](/3_Point_Bending_Simulation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 49: 3PB Simulation.</p>
+<p className="italic">Figure 53: 3PB Simulation.</p>
 </div>
 </div>
 </div>
@@ -101,7 +101,7 @@ The material data is then used on the 3 point bending simulation to validate the
 ![=x400](/3_Point_Bending_Error.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 50: 3 Point Bending Error.</p>
+<p className="italic">Figure 54: 3 Point Bending Error.</p>
 </div>
 </div>
 </div>

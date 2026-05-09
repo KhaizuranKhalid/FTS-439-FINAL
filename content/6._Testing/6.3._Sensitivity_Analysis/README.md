@@ -16,7 +16,7 @@ Given the large discrepancy observed, individual simulations and sensitivity ana
 ![=x400](/Tensile_Simulation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 51: Tensile Simulation.</p>
+<p className="italic">Figure 55: Tensile Simulation.</p>
 </div>
 </div>
 
@@ -24,7 +24,7 @@ Given the large discrepancy observed, individual simulations and sensitivity ana
 ![=x400](/Compression_Simulation.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 52: Compression Simulation.</p>
+<p className="italic">Figure 56: Compression Simulation.</p>
 </div>
 </div>
 </div>
@@ -34,7 +34,7 @@ Given the large discrepancy observed, individual simulations and sensitivity ana
 ![=x400](/Individual_Sim_Error.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 53: Individual Sim Error.</p>
+<p className="italic">Figure 57: Individual Sim Error.</p>
 </div>
 </div>
 </div>
@@ -46,7 +46,7 @@ Subsequently, individual material properties were systematically reduced by a fa
 ![=x400](/Mat_Data_Sensitivity_Analysis.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 54: Mat Data Sensitivity Analysis.</p>
+<p className="italic">Figure 58: Mat Data Sensitivity Analysis.</p>
 </div>
 </div>
 </div>

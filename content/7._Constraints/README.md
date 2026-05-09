@@ -19,7 +19,7 @@ According to industry practices such as the SAE standards, impact testing is typ
 ![=x400](/SAE_J3203_Test.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 66: SAE J3203 Testing.</p>
+<p className="italic">Figure 73: SAE J3203 Testing.</p>
 </div>
 </div>
 </div>
@@ -29,7 +29,7 @@ According to industry practices such as the SAE standards, impact testing is typ
 ![=x400](/Compression_With_Tire.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 67: Compression with Tire.</p>
+<p className="italic">Figure 74: Compression with Tire.</p>
 </div>
 </div>
 </div>
@@ -39,7 +39,7 @@ According to industry practices such as the SAE standards, impact testing is typ
 ![=x400](/Tire_Compression_Data.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 68: Tire Compression Data.</p>
+<p className="italic">Figure 75: Tire Compression Data.</p>
 </div>
 </div>
 </div>
@@ -53,7 +53,7 @@ As mentioned above, there may be geometric inconsistencies with the rims. Althou
 ![=x400](/Gap_On_Carbon_Fiber_Rim.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 69: Gap on carbon fiber rim.</p>
+<p className="italic">Figure 76: Gap on carbon fiber rim.</p>
 </div>
 </div>
 </div>
@@ -63,7 +63,7 @@ As mentioned above, there may be geometric inconsistencies with the rims. Althou
 ![=x400](/Uneven_Deflection_Rim.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 70: Tilting of Applicator.</p>
+<p className="italic">Figure 77: Tilting of Applicator.</p>
 </div>
 </div>
 </div>
@@ -77,7 +77,7 @@ The testing machines are over 15 years old and undergo annual calibration, typic
 ![=x400](/Calibration_Quote.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 71: Calibration Quote.</p>
+<p className="italic">Figure 78: Calibration Quote.</p>
 </div>
 </div>
 </div>
@@ -91,7 +91,7 @@ The available horizontal dial gauges had a limited range of 0.8mm while the expe
 ![=x400](/Horizontal_Dial_Guage_Range.png)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 72: Horizontal Dial Gauge Range.</p>
+<p className="italic">Figure 79: Horizontal Dial Gauge Range.</p>
 </div>
 </div>
 </div>
@@ -105,7 +105,7 @@ As previously mentioned in the sensitivity analysis, the dominant property affec
 ![=x400](/ASTM_D5379_Jig.jpg)
 
 <div className="w-full flex items-center justify-center">
-<p className="italic">Figure 73: ASTM D5379 Jig.</p>
+<p className="italic">Figure 80: ASTM D5379 Jig.</p>
 </div>
 </div>
 </div>

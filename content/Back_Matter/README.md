@@ -15,8 +15,8 @@ access: [0]
 | Methodology  | 446          |
 | Design       | 789          |
 | Manufacturing| 381          |
-| Testing      | 616          |
-| Constraints  | 343          |
-| Future Work  | 248          |
-| Conclusion   | 233          |
-| Total        | 3924         |
+| Testing      | 980          |
+| Constraints  | 356          |
+| Future Work  | 383          |
+| Conclusion   | 249          |
+| Total        | 4452         |
